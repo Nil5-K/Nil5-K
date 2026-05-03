@@ -28,7 +28,7 @@
 
 📖 Learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="20" valign="middle"/>
 
-📁 Working on: ft_printf, get_next_line, push_swap
+📁 Working on: **ft_printf**, **get_next_line**, **push_swap**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nil5-K&icon=0&color=0)](https://visitcount.itsvg.in)
