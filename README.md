@@ -8,7 +8,7 @@
 
 ⌨️ Favorite programming language: C
 
-🎮 Favorite game: CS2
+🎮 Favorite game: <img src="https://img.shields.io/badge/CS:GO-de9b35?style=for-the-badge&logo=counterstrike&logoColor=white" height="25" valign="middle" />
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### ⏳ Currently:
 
-📖 Learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="20" valign="middle"/>
+📖 Learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="25" valign="middle"/>
 
 📁 Working on: **ft_printf**, **get_next_line**, **push_swap**
 
