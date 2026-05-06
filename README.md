@@ -31,4 +31,4 @@
 📁 Working on: **ft_printf**, **get_next_line**, **push_swap**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nil5-K&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Nil5-K&color=blueviolet&style=flat-square&label=Profile+Views)
