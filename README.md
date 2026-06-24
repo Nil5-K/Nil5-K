@@ -28,7 +28,7 @@
 
 📖 Learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="25" valign="middle"/>
 
-📁 Working on: **ft_printf**, **get_next_line**, **push_swap**
+📁 Working on: **Circle Two**
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nil5-K&color=blueviolet&style=flat-square&label=Profile+Views)
